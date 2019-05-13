@@ -20,7 +20,7 @@
 						<div class="logo-wrap">
 							<img src="<?php echo get_template_directory_uri(); ?>/img/logo.png" class="logo-img" alt="Logo image">
 						</div>
-						<?php wp_nav_menu( array( 'theme_location' => 'header', 'container_class' => 'header-nav', 'menu_class' => 'header-nav',) );?>
+						<?php wp_nav_menu( array( 'theme_location' => 'header', 'container_class' => 'header-nav', 'menu_class' => 'header-nav') );?>
 					</div>
 					<div class="col-lg-2 col-md-1 col-xs-12 justify-content-end">
 						<div class="btn-wrap">

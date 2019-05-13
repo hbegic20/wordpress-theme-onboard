@@ -5690,21 +5690,21 @@ h3 {
   z-index: -1;
 }
 
-.menu-item {
+.page_item {
   list-style: none;
   display: inline-block;
   position: relative;
 }
 
 @media only screen and (max-width: 1024px) {
-  .menu-item {
+  .page_item {
     display: block;
     text-align: center;
     margin: 0;
   }
 }
 
-.menu-item a {
+.page_item a {
   text-decoration: none;
   color: #fff;
   font-size: 14px;
@@ -6123,12 +6123,12 @@ picture img {
   }
 }
 
-.header-nav .menu-item+.menu-item {
+.header-nav .page_item+.page_item {
   margin-left: 42px;
 }
 
 @media only screen and (max-width: 1024px) {
-  .header-nav .menu-item+.menu-item {
+  .header-nav .page_item+.page_item {
     margin-left: 0;
     margin-top: 10px;
   }
