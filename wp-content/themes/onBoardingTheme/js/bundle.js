@@ -1,0 +1,1 @@
+document.onreadystatechange=function(){if("interactive"==document.readyState&&(console.log("works"),null!==document.querySelector("select")&&styleSelect("select"),null!==document.querySelector(".glide")))new Glide(".glide").mount()};
