@@ -7,3 +7,7 @@ To start this project use docker-compose up
 
 # 2. Step 
 Open port localhost:8003 and start working 
+
+
+Username: root
+Password: root
