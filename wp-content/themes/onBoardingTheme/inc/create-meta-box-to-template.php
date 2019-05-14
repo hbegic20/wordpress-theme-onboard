@@ -38,6 +38,5 @@ function display_product_information()
 					echo esc_attr( $guardsman_stored_meta['contentTextArea'][0] );
 				} ?></textarea>
 	<?php
-
 }
 ?>

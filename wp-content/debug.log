@@ -130,3 +130,29 @@
 [13-May-2019 13:35:54 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /var/www/html/wp-includes/nav-menu.php on line 95
 [13-May-2019 13:35:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/onBoardingTheme/inc/register-menu-location.php:1) in /var/www/html/wp-admin/includes/misc.php on line 1196
 [13-May-2019 13:36:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/themes/onBoardingTheme/inc/register-menu-location.php:1) in /var/www/html/wp-admin/includes/misc.php on line 1196
+[13-May-2019 14:26:30 UTC] PHP Notice:  Undefined index: title in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 56
+[13-May-2019 14:26:30 UTC] PHP Notice:  Undefined index: title2 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 57
+[13-May-2019 14:26:30 UTC] PHP Notice:  Undefined index: title3 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 58
+[13-May-2019 14:26:30 UTC] PHP Notice:  Undefined index: title4 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 59
+[13-May-2019 14:26:30 UTC] PHP Notice:  Undefined index: contentTextArea in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 61
+[13-May-2019 14:26:30 UTC] PHP Notice:  Undefined index: contentTextArea2 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 62
+[13-May-2019 14:26:30 UTC] PHP Notice:  Undefined index: contentTextArea3 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 63
+[13-May-2019 14:26:30 UTC] PHP Notice:  Undefined index: contentTextArea4 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 64
+[13-May-2019 14:26:50 UTC] PHP Notice:  Undefined index: title in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 57
+[13-May-2019 14:26:50 UTC] PHP Notice:  Undefined index: title2 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 58
+[13-May-2019 14:26:50 UTC] PHP Notice:  Undefined index: title3 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 59
+[13-May-2019 14:26:50 UTC] PHP Notice:  Undefined index: title4 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 60
+[13-May-2019 14:26:50 UTC] PHP Notice:  Undefined index: contentTextArea in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 62
+[13-May-2019 14:26:50 UTC] PHP Notice:  Undefined index: contentTextArea2 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 63
+[13-May-2019 14:26:50 UTC] PHP Notice:  Undefined index: contentTextArea3 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 64
+[13-May-2019 14:26:50 UTC] PHP Notice:  Undefined index: contentTextArea4 in /var/www/html/wp-content/themes/onBoardingTheme/front-page.php on line 65
+[13-May-2019 14:40:28 UTC] PHP Fatal error:  Cannot redeclare guardsman_save_cstMetaData() (previously declared in /var/www/html/wp-content/themes/onBoardingTheme/inc/create-meta-box-for-custom-post-type.php:48) in /var/www/html/wp-content/themes/onBoardingTheme/inc/create-meta-boxes.php on line 109
+[13-May-2019 14:40:28 UTC] PHP Fatal error:  Cannot redeclare guardsman_save_cstMetaData() (previously declared in /var/www/html/wp-content/themes/onBoardingTheme/inc/create-meta-box-for-custom-post-type.php:48) in /var/www/html/wp-content/themes/onBoardingTheme/inc/create-meta-boxes.php on line 109
+[13-May-2019 14:45:39 UTC] PHP Parse error:  syntax error, unexpected '$post' (T_VARIABLE) in /var/www/html/wp-content/themes/onBoardingTheme/page-faq-list.php on line 63
+[13-May-2019 14:52:19 UTC] PHP Notice:  Undefined variable: post_with_workflow_items in /var/www/html/wp-content/themes/onBoardingTheme/page-faq-list.php on line 36
+[13-May-2019 14:52:19 UTC] PHP Notice:  Undefined variable: post_with_workflow_items in /var/www/html/wp-content/themes/onBoardingTheme/page-faq-list.php on line 37
+[13-May-2019 14:52:35 UTC] PHP Notice:  Undefined variable: post_with_workflow_items in /var/www/html/wp-content/themes/onBoardingTheme/page-faq-list.php on line 38
+[13-May-2019 14:52:35 UTC] PHP Notice:  Undefined variable: post_with_workflow_items in /var/www/html/wp-content/themes/onBoardingTheme/page-faq-list.php on line 39
+[13-May-2019 14:53:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /var/www/html/wp-content/themes/onBoardingTheme/page-faq-list.php on line 37
+[13-May-2019 14:53:40 UTC] PHP Notice:  Undefined variable: post_with_workflow_items in /var/www/html/wp-content/themes/onBoardingTheme/page-faq-list.php on line 38
+[13-May-2019 14:53:40 UTC] PHP Notice:  Undefined variable: post_with_workflow_items in /var/www/html/wp-content/themes/onBoardingTheme/page-faq-list.php on line 39
